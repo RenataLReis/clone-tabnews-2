@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      Agora uma declaração que estará sempre no ar, como meu amor por vc ^^
+      BusTab: a aba do seu navegador com informações sobre mobilidade urbana
     </h1>
   );
 }
